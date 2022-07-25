@@ -1,0 +1,12 @@
+/gps/particle ion
+/gps/ion 55 137
+# any position plus 4.1025 cm
+/gps/pos/centre 0 0 9.1025 cm
+/gps/ang/type iso
+/NaI/detector/dimensions 20 0 20
+/run/reinitializeGeometry 
+/run/beamOn 1000000
+
+/NaI/detector/dimensions 0 0 20
+/run/reinitializeGeometry 
+/run/beamOn 1000000

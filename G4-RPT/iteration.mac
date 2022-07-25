@@ -1,0 +1,3 @@
+/NaI/detector/dimensions 0 0 20 cm 
+/run/reinitializeGeometry 
+/control/execute /home/sebas/Documents/code_g4/NaI_1d_RPT/posg/build/macros/pos{num}.mac 

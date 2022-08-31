@@ -13,10 +13,6 @@ RPT-macros folder has the macrofiles generated for GEANT4 simulations.
 
 RPT-sim-data folder has the results from the GEANT4 simulation.
 
-RPT-dt.ipynb is the data analysis for the RPT.
+RPT_1D_data_analysis.ipynb is the data treatment, data analisis, and data visualization of the results.
 
-RPT-zip-results.ipynb is the data analysis to zip the simulated results.
-
-calib_dt.ipynb is the data analysis for the calibration detector.
-
-utils.py y utils2.py are functions and classes to modularize the juoyter notebooks.
+utils.py y utils2.py are functions and classes to modularize the jupyter notebooks.

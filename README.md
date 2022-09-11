@@ -52,19 +52,12 @@ Where:
                 
 ### FlowChart of the Data Treatment
 ---
-```flow
-st=>start: Data Acquisition for static sources
-experimentally and from the GEANT4 simulation
-op=>operation: FEPE calibration for experimental data
-and simulated data
-cond=>condition: Static Calibration 
-Successfull Yes or No
-op2=>operation: Data acquisition experimentally 
-and from the simulation for the RPT system
-e2=>end: Start again all the process
-e=>end: Particle position reconstruction
+```mermaid 
+  flowchart TD;
+      A[Using a flow<br>chart in GitHub] --> B{Must it be<br>accessible?};
+      B -- No --> C[Wrong,<br>try again];
+      B -- Yes --> D{Into what format<br>does it render?};
+      D -- JPG/PNG/GIF --> E{Does it have<br>an `alt`?};
+      E -- No --> V[Wrong,<br>try again];
 
-st->op->cond->op2->e
-cond(no)->
-cond(yes)->op2
 ```

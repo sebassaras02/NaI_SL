@@ -47,7 +47,7 @@ Where:
 - E: is the activity of the radioactive source
 - P: is the probability of the emission
                 
-###FlowChart of the Data Treatment
+### FlowChart of the Data Treatment
 ---
 ```flow
 st=>start: Data Acquisition for static sources

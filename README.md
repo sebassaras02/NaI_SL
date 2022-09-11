@@ -48,7 +48,7 @@ Where:
 - P: is the probability of the emission
                 
 ###FlowChart of the Data Treatment
-
+---
 ```flow
 st=>start: Data Acquisition for static sources
 experimentally and from the GEANT4 simulation

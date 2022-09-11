@@ -53,11 +53,12 @@ Where:
 ### FlowChart of the Data Treatment
 ---
 ```mermaid 
-  flowchart TD;
-      A[Using a flow<br>chart in GitHub] --> B{Must it be<br>accessible?};
-      B -- No --> C[Wrong,<br>try again];
-      B -- Yes --> D{Into what format<br>does it render?};
-      D -- JPG/PNG/GIF --> E{Does it have<br>an `alt`?};
-      E -- No --> V[Wrong,<br>try again];
+  graph TD
+    A[Collect data experimentally and from the simulation for static sources] --> B(FEPE calibration for experimental data and simulated data)
+    B --> C{Static Calibration Successfull Yes or No}
+    C -->|Yes| D[Data acquisition experimentally and from the simulation for the RPT system]
+    C -->|No| E[Try all again]
+    D --> F[Generation of position spectra]
+    F --> G[Reconstruction of particle position]
 
 ```

@@ -33,7 +33,8 @@ Ecuadorian Radioactive Particle Tracking (e-RPT) is an attempt to do the Radioac
 The RPT is a nuclear technique to tracking radioactive particles and reconstruct the path of those particles. 
 
 An example of the RPT system is ilustrated in the following picture.
-<img src="https://www.google.com/search?q=radioactive+particle+tracking&sxsrf=ALiCzsb1pSPNGRa4QZtS3WDv6Y3yz_PNdA:1662930330803&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi58Zyd0o36AhXxLEQIHSVmAOwQ_AUoAXoECAEQAw&biw=1536&bih=694&dpr=1.25#imgrc=C6iFLbKaUBFtDM" alt="Example of a radioactive particle tracking system" title="Optional title">
+
+![descarga](https://user-images.githubusercontent.com/82113558/189548912-ea04f459-0735-480d-9715-e71046b4bbd3.png)
 
 
 Picture obtained from:  Mohd Amirul Syafiq Mohd Yunos et al 2019 IOP Conf. Ser.: Mater. Sci. Eng. 554 012005

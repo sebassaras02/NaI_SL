@@ -62,3 +62,9 @@ Where:
     F --> G[Reconstruction of particle position]
 
 ```
+
+### Contacts:
+---
+- [Twitter](https://twitter.com/sarasti_seb)
+- [LinkedIn](https://linkedin.com/in/sebastiansarasti)
+- [ResearchGate](https://www.researchgate.net/profile/Sebastian-Sarasti-2)

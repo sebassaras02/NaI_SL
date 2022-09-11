@@ -65,6 +65,6 @@ e2=>end: Start again all the process
 e=>end: Particle position reconstruction
 
 st->op->cond->op2->e
-cond(no)->e2
+cond(no)->
 cond(yes)->op2
 ```
